@@ -1,5 +1,3 @@
-import datetime
-
 e = (input("Enter First Name:    "))
 
 f = (input("Enter Last Name:    "))
